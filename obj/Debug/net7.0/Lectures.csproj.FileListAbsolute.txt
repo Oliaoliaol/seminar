@@ -1,0 +1,15 @@
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.csproj.AssemblyReference.cache
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.AssemblyInfoInputs.cache
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.AssemblyInfo.cs
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.csproj.CoreCompileInputs.cache
+C:\Users\damir\Desktop\Work\Education\Lectures\bin\Debug\net7.0\Lectures.exe
+C:\Users\damir\Desktop\Work\Education\Lectures\bin\Debug\net7.0\Lectures.deps.json
+C:\Users\damir\Desktop\Work\Education\Lectures\bin\Debug\net7.0\Lectures.runtimeconfig.json
+C:\Users\damir\Desktop\Work\Education\Lectures\bin\Debug\net7.0\Lectures.dll
+C:\Users\damir\Desktop\Work\Education\Lectures\bin\Debug\net7.0\Lectures.pdb
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.dll
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\refint\Lectures.dll
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.pdb
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\Lectures.genruntimeconfig.cache
+C:\Users\damir\Desktop\Work\Education\Lectures\obj\Debug\net7.0\ref\Lectures.dll

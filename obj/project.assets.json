@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\damir\\Desktop\\домашние задания\\Education\\Lectures\\Lectures.csproj",
+      "projectUniqueName": "C:\\Users\\damir\\Desktop\\Work\\Education\\Lectures\\Lectures.csproj",
       "projectName": "Lectures",
-      "projectPath": "C:\\Users\\damir\\Desktop\\домашние задания\\Education\\Lectures\\Lectures.csproj",
+      "projectPath": "C:\\Users\\damir\\Desktop\\Work\\Education\\Lectures\\Lectures.csproj",
       "packagesPath": "C:\\Users\\damir\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\damir\\Desktop\\домашние задания\\Education\\Lectures\\obj\\",
+      "outputPath": "C:\\Users\\damir\\Desktop\\Work\\Education\\Lectures\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\damir\\AppData\\Roaming\\NuGet\\NuGet.Config"
